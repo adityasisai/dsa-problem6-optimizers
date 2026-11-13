@@ -6,6 +6,7 @@ Group members:
 - Manas Dogra (100006131)
 - Monish Chopra (100007201)
 - Aaditya Dawer (100006382)
+- Aditya Aditya ( 100007877)
 
 ## What is in this repository
 - Problem6_Optimizers.ipynb: Jupyter Notebook with all the code
